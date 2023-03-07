@@ -1,0 +1,19 @@
+/* * {
+  box-sizing: border-box;
+} */
+header {
+  text-align: center;
+  padding: auto auto;
+
+}
+body {
+  margin: 0 auto;
+  max-width: 50em;
+}
+body{
+  text-align: center;
+  padding: auto auto;
+}
+/* p{
+  text-align: center;
+} */
